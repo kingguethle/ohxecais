@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saidoivei.dutchartdaily.com/sitemap.xml
